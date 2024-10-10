@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj": {}
+    "c:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj": {
+    "c:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj",
+        "projectUniqueName": "c:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj",
         "projectName": "Arsenal",
-        "projectPath": "C:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj",
+        "projectPath": "c:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\Arsenal.csproj",
         "packagesPath": "C:\\Users\\axel.grufman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\obj\\",
+        "outputPath": "c:\\Users\\axel.grufman\\Documents\\programering\\Arsenal\\Arsenal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

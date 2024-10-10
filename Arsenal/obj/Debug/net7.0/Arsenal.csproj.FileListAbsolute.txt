@@ -1,0 +1,15 @@
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\bin\Debug\net7.0\Arsenal.exe
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\bin\Debug\net7.0\Arsenal.deps.json
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\bin\Debug\net7.0\Arsenal.runtimeconfig.json
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\bin\Debug\net7.0\Arsenal.dll
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\bin\Debug\net7.0\Arsenal.pdb
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.AssemblyInfoInputs.cache
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.AssemblyInfo.cs
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.csproj.CoreCompileInputs.cache
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.dll
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\refint\Arsenal.dll
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.pdb
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\Arsenal.genruntimeconfig.cache
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\obj\Debug\net7.0\ref\Arsenal.dll
+c:\Users\axel.grufman\Documents\programering\Arsenal\Arsenal\bin\Debug\net7.0\Weapon.json
